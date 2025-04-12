@@ -1,4 +1,3 @@
-loadstring
 local gameremotes = game:GetService("ReplicatedStorage").GameRemotes
 local moveitems = gameremotes:FindFirstChild("MoveItem") or gameremotes:FindFirstChild("MoveItems")
 local sortitems = gameremotes:FindFirstChild("SortItem") or gameremotes:FindFirstChild("SortItems")
